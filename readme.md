@@ -13,3 +13,5 @@
 - 法律后果及使用后果由使用者承担
 - [GPL LICENSE](https://github.com/Internship-Developer/AV_Meta_Capture/blob/master/LICENSE)
 - 若用户不同意上述条款任意一条，请勿使用本项目和项目成果
+
+注意：本项目还在开发中，请勿下载。
